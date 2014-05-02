@@ -10,17 +10,35 @@
     <sprite>sprites\s_good</sprite>
     <sprite>sprites\s_bullet</sprite>
     <sprite>sprites\s_point</sprite>
+    <sprite>sprites\s_score</sprite>
+    <sprite>sprites\s_spawner</sprite>
+    <sprite>sprites\s_start</sprite>
+    <sprite>sprites\s_goal</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\b_color</background>
+    <background>background\b_menu</background>
+    <background>background\b_color2</background>
+  </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\o_evil</object>
     <object>objects\o_good</object>
     <object>objects\o_bullet</object>
     <object>objects\o_point</object>
+    <object>objects\o_score</object>
+    <object>objects\o_spawner</object>
+    <object>objects\o_text</object>
+    <object>objects\o_start</object>
+    <object>objects\o_goal</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\Stage1</room>
+    <room>rooms\Stage2</room>
+    <room>rooms\Intro</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
