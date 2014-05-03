@@ -54,6 +54,8 @@
     <sprite>sprites\s_windy</sprite>
     <sprite>sprites\s_tumbleweed</sprite>
     <sprite>sprites\s_shop</sprite>
+    <sprite>sprites\s_desertapple</sprite>
+    <sprite>sprites\sprite30</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_awesome</background>
@@ -95,6 +97,8 @@
     <object>objects\o_tumbleweed</object>
     <object>objects\o_shop</object>
     <object>objects\o_bille</object>
+    <object>objects\o_desertapple</object>
+    <object>objects\o_spawnwerest</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
