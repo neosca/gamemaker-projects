@@ -42,12 +42,23 @@
     <sprite>sprites\s_goback</sprite>
     <sprite>sprites\s_boss</sprite>
     <sprite>sprites\s_bill</sprite>
-    <sprite>sprites\sprite17</sprite>
+    <sprite>sprites\s_fox</sprite>
     <sprite>sprites\s_mightyfootball</sprite>
+    <sprite>sprites\s_dancing</sprite>
+    <sprite>sprites\s_bird</sprite>
+    <sprite>sprites\s_bossfinishforest</sprite>
+    <sprite>sprites\sprite22</sprite>
+    <sprite>sprites\s_killeronthebeach</sprite>
+    <sprite>sprites\s_spawner</sprite>
+    <sprite>sprites\s_gun</sprite>
+    <sprite>sprites\s_windy</sprite>
+    <sprite>sprites\s_tumbleweed</sprite>
+    <sprite>sprites\s_shop</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_awesome</background>
     <background>background\b_help</background>
+    <background>background\b_beach</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -58,7 +69,7 @@
     <object>objects\o_arrow</object>
     <object>objects\o_bomb</object>
     <object>objects\o_evil</object>
-    <object>objects\o_spawner</object>
+    <object>objects\o_placer</object>
     <object>objects\o_score</object>
     <object>objects\o_health</object>
     <object>objects\o_tree</object>
@@ -75,6 +86,15 @@
     <object>objects\o_heal</object>
     <object>objects\o_fox</object>
     <object>objects\o_themightyfootball</object>
+    <object>objects\o_dancing</object>
+    <object>objects\o_bird</object>
+    <object>objects\o_bossfinishforest</object>
+    <object>objects\o_killeronthebeach</object>
+    <object>objects\o_spawn</object>
+    <object>objects\o_gunomb</object>
+    <object>objects\o_tumbleweed</object>
+    <object>objects\o_shop</object>
+    <object>objects\o_bille</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
@@ -83,6 +103,7 @@
     <room>rooms\r_forestz</room>
     <room>rooms\r_forestsc</room>
     <room>rooms\r_forsestest</room>
+    <room>rooms\r_thebeach</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

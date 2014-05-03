@@ -68,10 +68,10 @@
     <instance objName="o_evil" x="288" y="256" name="inst_73A9EAAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_evil" x="224" y="160" name="inst_9B44F3F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_evil" x="96" y="256" name="inst_7972C84D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_spawner" x="256" y="448" name="inst_1E749470" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_spawner" x="608" y="0" name="inst_016D1A34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_spawner" x="0" y="256" name="inst_E763AA15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_spawner" x="608" y="448" name="inst_8738E74A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_placer" x="256" y="448" name="inst_1E749470" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_placer" x="608" y="0" name="inst_016D1A34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_placer" x="0" y="256" name="inst_E763AA15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_placer" x="608" y="448" name="inst_8738E74A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="704" y="128" name="inst_E3E043F8" locked="0" code="" scaleX="8" scaleY="8" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="-1536" y="-448" name="inst_1E44237A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="992" y="64" name="inst_1507F3B5" locked="0" code="" scaleX="-8" scaleY="8" colour="4294967295" rotation="0"/>
@@ -82,7 +82,7 @@
     <instance objName="o_finish" x="-672" y="-32" name="inst_F85E6B2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_finish" x="512" y="32" name="inst_79C0D762" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_score" x="416" y="0" name="inst_CA20FEC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_spawner" x="320" y="64" name="inst_2334CABA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_placer" x="320" y="64" name="inst_2334CABA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="288" y="320" name="inst_4B3ADEFD" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="512" y="256" name="inst_9FFA753E" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="32" y="32" name="inst_AA096A3B" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
@@ -90,7 +90,7 @@
     <instance objName="o_heal" x="128" y="384" name="inst_BD91CD91" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="448" y="416" name="inst_6B99327F" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="448" y="160" name="inst_B2DDC18E" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_fox" x="416" y="160" name="inst_0C43A209" locked="0" code="" scaleX="-0.273503988981247" scaleY="0.252335995435715" colour="4294967295" rotation="0"/>
+    <instance objName="o_fox" x="352" y="160" name="inst_0C43A209" locked="0" code="" scaleX="0.82051283121109" scaleY="0.646464645862579" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
