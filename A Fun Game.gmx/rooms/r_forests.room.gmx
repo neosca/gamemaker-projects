@@ -83,6 +83,14 @@
     <instance objName="o_finish" x="512" y="32" name="inst_79C0D762" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_score" x="416" y="0" name="inst_CA20FEC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_spawner" x="320" y="64" name="inst_2334CABA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="288" y="320" name="inst_4B3ADEFD" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="512" y="256" name="inst_9FFA753E" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="32" y="32" name="inst_AA096A3B" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="576" y="32" name="inst_6E0B8B66" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="128" y="384" name="inst_BD91CD91" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="448" y="416" name="inst_6B99327F" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="448" y="160" name="inst_B2DDC18E" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="o_fox" x="416" y="160" name="inst_0C43A209" locked="0" code="" scaleX="-0.273503988981247" scaleY="0.252335995435715" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
