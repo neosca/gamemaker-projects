@@ -56,6 +56,7 @@
     <sprite>sprites\s_shop</sprite>
     <sprite>sprites\s_desertapple</sprite>
     <sprite>sprites\sprite30</sprite>
+    <sprite>sprites\s_finishjungle</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_awesome</background>
@@ -99,6 +100,7 @@
     <object>objects\o_bille</object>
     <object>objects\o_desertapple</object>
     <object>objects\o_spawnwerest</object>
+    <object>objects\o_finishjungle</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
@@ -108,6 +110,10 @@
     <room>rooms\r_forestsc</room>
     <room>rooms\r_forsestest</room>
     <room>rooms\r_thebeach</room>
+    <room>rooms\r_thebeacherooo</room>
+    <room>rooms\r_thatpartofthething</room>
+    <room>rooms\r_almostthere</room>
+    <room>rooms\r_finaldessert</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
