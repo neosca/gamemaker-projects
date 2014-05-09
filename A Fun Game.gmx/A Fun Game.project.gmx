@@ -57,11 +57,16 @@
     <sprite>sprites\s_desertapple</sprite>
     <sprite>sprites\sprite30</sprite>
     <sprite>sprites\s_finishjungle</sprite>
+    <sprite>sprites\s_bossinfostuff</sprite>
+    <sprite>sprites\s_water</sprite>
+    <sprite>sprites\s_jungle</sprite>
+    <sprite>sprites\s_alarmbomb</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_awesome</background>
     <background>background\b_help</background>
     <background>background\b_beach</background>
+    <background>background\b_lands</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -101,6 +106,10 @@
     <object>objects\o_desertapple</object>
     <object>objects\o_spawnwerest</object>
     <object>objects\o_finishjungle</object>
+    <object>objects\o_bossinfostuff</object>
+    <object>objects\o_water</object>
+    <object>objects\o_snowball</object>
+    <object>objects\o_spawnerofballsacks</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
@@ -114,6 +123,7 @@
     <room>rooms\r_thatpartofthething</room>
     <room>rooms\r_almostthere</room>
     <room>rooms\r_finaldessert</room>
+    <room>rooms\r_snow</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
