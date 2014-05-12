@@ -50,50 +50,48 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="o_bille" x="-192" y="-160" name="inst_95DEFD70" locked="0" code="" scaleX="9" scaleY="9" colour="4294967295" rotation="0"/>
-    <instance objName="o_shop" x="352" y="0" name="inst_63A876BB" locked="0" code="" scaleX="8" scaleY="8" colour="4294967295" rotation="0"/>
-    <instance objName="o_shop" x="128" y="352" name="inst_C836200A" locked="0" code="" scaleX="9" scaleY="8" colour="4294967295" rotation="0"/>
-    <instance objName="o_bille" x="96" y="192" name="inst_8A6883F4" locked="0" code="" scaleX="5" scaleY="5" colour="4294967295" rotation="0"/>
-    <instance objName="o_bille" x="512" y="384" name="inst_3F3F53AA" locked="0" code="" scaleX="4.12903213500977" scaleY="4.12903213500977" colour="4294967295" rotation="0"/>
-    <instance objName="o_shop" x="160" y="32" name="inst_BF1A4D82" locked="0" code="" scaleX="5" scaleY="5" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="352" y="320" name="inst_FAB4FEF1" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="512" y="256" name="inst_ECC84A50" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="544" y="32" name="inst_FC19144D" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="64" y="160" name="inst_FCF4C433" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="288" y="224" name="inst_C159E1E0" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="320" y="32" name="inst_F3C1EE53" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="448" y="384" name="inst_8B6BA9DE" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="64" y="416" name="inst_3FD9C5BD" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_desertapple" x="32" y="256" name="inst_4FBA00DB" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="o_good" x="320" y="320" name="inst_884027DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_score" x="352" y="0" name="inst_70095D14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_dancing" x="384" y="256" name="inst_F0F19171" locked="0" code="" scaleX="0.448275864124298" scaleY="0.360856264829636" colour="4294967295" rotation="0"/>
-    <instance objName="o_bird" x="288" y="352" name="inst_83F14726" locked="0" code="" scaleX="0.213333338499069" scaleY="0.213333338499069" colour="4294967295" rotation="0"/>
-    <instance objName="o_killeronthebeach" x="160" y="0" name="inst_1CD1A61C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_killeronthebeach" x="608" y="160" name="inst_3DA53FA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_spawnwerest" x="160" y="384" name="inst_332C2EF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tumbleweed" x="64" y="352" name="inst_DF70B353" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tumbleweed" x="64" y="224" name="inst_7BA7D9DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tumbleweed" x="160" y="160" name="inst_A7A8EA5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tumbleweed" x="224" y="0" name="inst_C27E2296" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_tumbleweed" x="320" y="96" name="inst_C3DBF621" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_tumbleweed" x="352" y="224" name="inst_0B7D01E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_finish" x="736" y="320" name="inst_EA98667C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_tumbleweed" x="320" y="64" name="inst_C3DBF621" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_tumbleweed" x="448" y="192" name="inst_0B7D01E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_finish" x="864" y="224" name="inst_EA98667C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_spawn" x="64" y="128" name="inst_2D5F7777" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_spawn" x="544" y="320" name="inst_B4433E7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_spawn" x="576" y="96" name="inst_802AF74A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_shop" x="800" y="448" name="inst_1F39085A" locked="0" code="" scaleX="9" scaleY="8" colour="4294967295" rotation="0"/>
-    <instance objName="o_shop" x="928" y="160" name="inst_E7F5A3FB" locked="0" code="" scaleX="5" scaleY="5" colour="4294967295" rotation="0"/>
-    <instance objName="o_bille" x="704" y="0" name="inst_B4B49A2B" locked="0" code="" scaleX="5" scaleY="5" colour="4294967295" rotation="0"/>
-    <instance objName="o_bille" x="1024" y="352" name="inst_C7E3476A" locked="0" code="" scaleX="5" scaleY="5" colour="4294967295" rotation="0"/>
-    <instance objName="o_bille" x="608" y="544" name="inst_5F645856" locked="0" code="" scaleX="4" scaleY="4" colour="4294967295" rotation="0"/>
-    <instance objName="o_shop" x="704" y="192" name="inst_53F58952" locked="0" code="" scaleX="4" scaleY="4" colour="4294967295" rotation="0"/>
-    <instance objName="o_bille" x="864" y="352" name="inst_75221FCF" locked="0" code="" scaleX="3" scaleY="3" colour="4294967295" rotation="0"/>
-    <instance objName="o_tumbleweed" x="704" y="448" name="inst_3242C619" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tumbleweed" x="992" y="64" name="inst_7209385A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_tumbleweed" x="896" y="320" name="inst_4F97BAC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tumbleweed" x="672" y="160" name="inst_D6EB5FC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_tumbleweed" x="800" y="544" name="inst_D3DDE189" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_spawn" x="800" y="160" name="inst_A647A8C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_spawn" x="224" y="512" name="inst_6FE84F9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_spawn" x="480" y="448" name="inst_7987E0C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_spawn" x="832" y="512" name="inst_C9267828" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_spawn" x="992" y="384" name="inst_554FB965" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="960" y="96" name="inst_60077442" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="256" y="416" name="inst_4A0321EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="960" y="480" name="inst_F2ECD470" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="192" y="64" name="inst_2A9C8D35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="-96" y="-128" name="inst_1CFA3169" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="640" y="224" name="inst_3E5BC306" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_dancing" x="512" y="224" name="inst_5167D337" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_tumbleweed" x="608" y="512" name="inst_9A4F28B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="672" y="-128" name="inst_5558BC2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="-128" y="448" name="inst_9EB69FDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_shop" x="608" y="544" name="inst_35D2AC26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="736" y="480" name="inst_85A66F52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="928" y="448" name="inst_1B8B0D2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="928" y="288" name="inst_BFC3EB63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="864" y="128" name="inst_529BDF22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="480" y="0" name="inst_C924DAFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="448" y="96" name="inst_D389C481" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="384" y="384" name="inst_A901CD30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="544" y="384" name="inst_B32BC1E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="224" y="448" name="inst_56552A3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="160" y="320" name="inst_AC8ED725" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="96" y="480" name="inst_D93009AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

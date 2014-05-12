@@ -61,13 +61,6 @@
     <instance objName="o_placer" x="128" y="256" name="inst_4C367CDC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_placer" x="0" y="416" name="inst_86BD408D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_score" x="416" y="0" name="inst_58CB1353" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_heal" x="288" y="64" name="inst_CE25A898" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_heal" x="480" y="0" name="inst_7AE3D271" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_heal" x="352" y="416" name="inst_BFC29C97" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_heal" x="96" y="192" name="inst_635006E5" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_heal" x="256" y="512" name="inst_B7C1EC55" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_heal" x="416" y="128" name="inst_B3D695EB" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="o_fox" x="128" y="96" name="inst_28B82203" locked="0" code="" scaleX="0.82051283121109" scaleY="0.676767647266388" colour="4294967295" rotation="0"/>
     <instance objName="o_placer" x="640" y="352" name="inst_F7D2C7CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_placer" x="672" y="256" name="inst_6DEA700A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_placer" x="672" y="576" name="inst_81C52E8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -95,6 +88,39 @@
     <instance objName="o_tree" x="800" y="-96" name="inst_4796AE29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="1056" y="480" name="inst_E24EC549" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="512" y="288" name="inst_81F46E8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_fox" x="192" y="352" name="inst_13363FB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="128" y="128" name="inst_123273F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="384" y="64" name="inst_4CC57369" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="352" y="0" name="inst_ABDF8495" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="352" y="416" name="inst_304B6688" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="416" y="320" name="inst_5E360590" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="256" y="320" name="inst_29EC2655" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="256" y="480" name="inst_E825FD02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="160" y="480" name="inst_19BD50EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="64" y="256" name="inst_F8A32760" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="608" y="448" name="inst_A7526914" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="832" y="320" name="inst_BCF6B48F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="832" y="480" name="inst_214DCF7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="992" y="512" name="inst_9C066F26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="1024" y="352" name="inst_0267AA38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="1024" y="192" name="inst_FCFFAFEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="1024" y="64" name="inst_E9D157BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="960" y="64" name="inst_C68A75B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="800" y="64" name="inst_AD956969" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="704" y="128" name="inst_4A540704" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="768" y="256" name="inst_139D7840" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="672" y="320" name="inst_1EF21BA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="736" y="576" name="inst_6687CB96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="448" y="448" name="inst_520AC909" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="416" y="160" name="inst_9B453730" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="544" y="0" name="inst_9D693305" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="256" y="160" name="inst_01B3B0CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="320" y="576" name="inst_2D291ED3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="0" y="512" name="inst_5226D96A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="0" y="352" name="inst_84BCE9DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="96" y="576" name="inst_F3A86CFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="128" y="0" name="inst_8F5BA6EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="160" y="96" name="inst_09ABA605" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="b_awesome" x="512" y="192" w="64" h="64" xo="0" yo="0" id="10000001" name="inst_17F86FF0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

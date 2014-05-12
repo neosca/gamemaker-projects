@@ -61,6 +61,8 @@
     <sprite>sprites\s_water</sprite>
     <sprite>sprites\s_jungle</sprite>
     <sprite>sprites\s_alarmbomb</sprite>
+    <sprite>sprites\s_windfordesert</sprite>
+    <sprite>sprites\s_snowapple</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_awesome</background>
@@ -110,6 +112,8 @@
     <object>objects\o_water</object>
     <object>objects\o_snowball</object>
     <object>objects\o_spawnerofballsacks</object>
+    <object>objects\o_windfordesert</object>
+    <object>objects\o_snowapple</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
@@ -124,6 +128,10 @@
     <room>rooms\r_almostthere</room>
     <room>rooms\r_finaldessert</room>
     <room>rooms\r_snow</room>
+    <room>rooms\r_snowman</room>
+    <room>rooms\r_elsa</room>
+    <room>rooms\r_billybobanna</room>
+    <room>rooms\r_bossforsnowworld___</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

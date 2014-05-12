@@ -52,7 +52,6 @@
   <instances>
     <instance objName="o_copy" x="288" y="416" name="inst_06A1C803" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_goback" x="608" y="-32" name="inst_EAE486F6" locked="0" code="" scaleX="16" scaleY="19" colour="4294967295" rotation="0"/>
-    <instance objName="o_fox" x="384" y="128" name="inst_7A12A084" locked="0" code="" scaleX="-0.273504287004471" scaleY="0.252336442470551" colour="4294967295" rotation="0"/>
     <instance objName="o_spawnerofballsacks" x="1408" y="-64" name="inst_592466C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="32" y="192" name="inst_19C6090E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="64" y="544" name="inst_D702BBE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -69,8 +68,17 @@
     <instance objName="o_tree" x="928" y="480" name="inst_7F98389F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="576" y="448" name="inst_9EC821F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="736" y="416" name="inst_F15E2F5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_spawnerofballsacks" x="384" y="288" name="inst_9FB13216" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_goback" x="352" y="128" name="inst_B180F3CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_goback" x="352" y="32" name="inst_B180F3CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="832" y="224" name="inst_C2316651" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_desertapple" x="672" y="224" name="inst_4690EBAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_bird" x="960" y="160" name="inst_2CB6EB8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="864" y="192" name="inst_60D2D6AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_heal" x="576" y="224" name="inst_8ECD9A98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_fox" x="736" y="192" name="inst_4A142F2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_snowapple" x="352" y="320" name="inst_C3DCDAA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_snowapple" x="384" y="224" name="inst_86A8F67F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_finish" x="352" y="96" name="inst_564EE25D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_finish" x="384" y="416" name="inst_BC5B1B3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
