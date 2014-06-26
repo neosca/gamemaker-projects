@@ -16,6 +16,13 @@
     </sprites>
     <sprite>sprites\s_skyscraper</sprite>
     <sprite>sprites\s_house</sprite>
+    <sprite>sprites\s_roadsprite</sprite>
+    <sprite>sprites\s_raod</sprite>
+    <sprite>sprites\s_moreraod</sprite>
+    <sprite>sprites\s_tinyraod</sprite>
+    <sprite>sprites\s_road</sprite>
+    <sprite>sprites\s_roadstraight</sprite>
+    <sprite>sprites\s_roadstriaghtotherway</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_background</background>
@@ -29,6 +36,12 @@
       <object>objects\o_house</object>
       <object>objects\Block</object>
     </objects>
+    <object>objects\o_straightroad</object>
+    <object>objects\o_rtaod</object>
+    <object>objects\o_fofo</object>
+    <object>objects\o_otherroad</object>
+    <object>objects\o_hi</object>
+    <object>objects\o_raodstraight</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_randomness</room>
