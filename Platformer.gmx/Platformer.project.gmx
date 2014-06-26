@@ -9,6 +9,8 @@
   </sounds>
   <sprites name="sprites">
     <sprites name="Player">
+      <sprite>sprites\s_yellowsquare</sprite>
+      <sprite>sprites\s_otherplayerdude</sprite>
       <sprite>sprites\s_square</sprite>
       <sprite>sprites\s_square_idle</sprite>
     </sprites>
@@ -64,6 +66,7 @@
     <sprite>sprites\s_play</sprite>
     <sprite>sprites\sprite48</sprite>
     <sprite>sprites\s_rains</sprite>
+    <sprite>sprites\s_killer</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_background</background>
@@ -80,6 +83,7 @@
   <objects name="objects">
     <objects name="Player">
       <object>objects\o_square</object>
+      <object>objects\o_yelllowplayer</object>
     </objects>
     <objects name="Tiles">
       <object>objects\o_orange</object>
@@ -142,6 +146,7 @@
       <object>objects\o_fivecoin</object>
       <object>objects\o_coin</object>
     </objects>
+    <object>objects\o_killer</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
