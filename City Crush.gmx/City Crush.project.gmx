@@ -23,6 +23,7 @@
     <sprite>sprites\s_road</sprite>
     <sprite>sprites\s_roadstraight</sprite>
     <sprite>sprites\s_roadstriaghtotherway</sprite>
+    <sprite>sprites\s_concreate</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_background</background>
@@ -42,6 +43,7 @@
     <object>objects\o_otherroad</object>
     <object>objects\o_hi</object>
     <object>objects\o_raodstraight</object>
+    <object>objects\o_comcreate</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_randomness</room>
