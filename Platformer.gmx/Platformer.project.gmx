@@ -9,8 +9,6 @@
   </sounds>
   <sprites name="sprites">
     <sprites name="Player">
-      <sprite>sprites\s_yellowsquare</sprite>
-      <sprite>sprites\s_otherplayerdude</sprite>
       <sprite>sprites\s_square</sprite>
       <sprite>sprites\s_square_idle</sprite>
     </sprites>
@@ -83,7 +81,6 @@
   <objects name="objects">
     <objects name="Player">
       <object>objects\o_square</object>
-      <object>objects\o_yelllowplayer</object>
     </objects>
     <objects name="Tiles">
       <object>objects\o_orange</object>

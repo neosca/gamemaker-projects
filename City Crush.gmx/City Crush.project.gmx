@@ -7,23 +7,31 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprites name="Player">
-      <sprite>sprites\byebyehuman</sprite>
+      <sprite>sprites\s_byebyehuman</sprite>
       <sprite>sprites\s_backhuman</sprite>
       <sprite>sprites\s_human</sprite>
       <sprite>sprites\s_backwardshuman</sprite>
       <sprite>sprites\s_humanidle</sprite>
       <sprite>sprites\s_sideidle</sprite>
     </sprites>
+    <sprite>sprites\s_skyscraper</sprite>
+    <sprite>sprites\s_house</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\b_background</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <objects name="Player">
       <object>objects\o_human</object>
     </objects>
+    <objects name="Blocks">
+      <object>objects\o_house</object>
+      <object>objects\Block</object>
+    </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\r_randomness</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
