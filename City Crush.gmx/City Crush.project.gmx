@@ -6,11 +6,25 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\s_human</sprite>
-    <sprite>sprites\s_backhuman</sprite>
+    <sprites name="Player">
+      <sprite>sprites\byebyehuman</sprite>
+      <sprite>sprites\s_backhuman</sprite>
+      <sprite>sprites\s_human</sprite>
+      <sprite>sprites\s_backwardshuman</sprite>
+      <sprite>sprites\s_humanidle</sprite>
+      <sprite>sprites\s_sideidle</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <objects name="Player">
+      <object>objects\o_human</object>
+    </objects>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
