@@ -57,11 +57,17 @@
     <sprite>sprites\s_stairinmanchine</sprite>
     <sprite>sprites\s_solid</sprite>
     <sprite>sprites\s_signone</sprite>
+    <sprite>sprites\s_houses</sprite>
+    <sprite>sprites\s_houwy</sprite>
+    <sprite>sprites\s_telepirtertojaineshouse</sprite>
+    <sprite>sprites\s_jenkinssign</sprite>
+    <sprite>sprites\s_ouse</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_background</background>
     <background>background\b_carpet</background>
     <background>background\b_housemancine</background>
+    <background>background\b_backgroundonet</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -106,12 +112,17 @@
     <object>objects\o_stair</object>
     <object>objects\o_solid</object>
     <object>objects\o_signone</object>
+    <object>objects\o_hwusd</object>
+    <object>objects\o_teleporttojaineshouse</object>
+    <object>objects\object35</object>
+    <object>objects\o_jenkinssign</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_randomness</room>
     <room>rooms\r_mainmanshouse</room>
     <room>rooms\r_room</room>
     <room>rooms\r_mancinw</room>
+    <room>rooms\r_jenkinshouse</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
