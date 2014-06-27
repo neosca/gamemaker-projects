@@ -4,13 +4,20 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound0</sound>
+    <sound>sound\sound1</sound>
+  </sounds>
   <sprites name="sprites">
     <sprites name="Player">
       <sprite>sprites\s_byebyehuman</sprite>
       <sprite>sprites\s_backhuman</sprite>
       <sprite>sprites\s_human</sprite>
       <sprite>sprites\s_backwardshuman</sprite>
+      <sprite>sprites\s_humanwithgunstraight</sprite>
+      <sprite>sprites\s_humanwithgunback</sprite>
+      <sprite>sprites\s_sprritelefthumangun</sprite>
+      <sprite>sprites\s_rightsideviewhumanwithgun</sprite>
       <sprite>sprites\s_humanidle</sprite>
       <sprite>sprites\s_sideidle</sprite>
     </sprites>
@@ -24,9 +31,37 @@
     <sprite>sprites\s_roadstraight</sprite>
     <sprite>sprites\s_roadstriaghtotherway</sprite>
     <sprite>sprites\s_concreate</sprite>
+    <sprite>sprites\s_raodtuner</sprite>
+    <sprite>sprites\s_gointoroomtutorial</sprite>
+    <sprites name="Furniture">
+      <sprite>sprites\s_carpet</sprite>
+      <sprite>sprites\s_furnature</sprite>
+      <sprite>sprites\s_oven</sprite>
+      <sprite>sprites\s_sink</sprite>
+      <sprite>sprites\s_bed</sprite>
+      <sprite>sprites\s_fridge</sprite>
+      <sprite>sprites\s_bookshelf</sprite>
+      <sprite>sprites\s_table</sprite>
+      <sprite>sprites\s_sign</sprite>
+    </sprites>
+    <sprite>sprites\s_bulletup</sprite>
+    <sprite>sprites\s_bulletright</sprite>
+    <sprite>sprites\s_bulletleft</sprite>
+    <sprite>sprites\s_bulletdown</sprite>
+    <sprite>sprites\s_leavehousetutorial</sprite>
+    <sprite>sprites\s_teleporttocity</sprite>
+    <sprite>sprites\s_tower</sprite>
+    <sprite>sprites\s_mancine</sprite>
+    <sprite>sprites\</sprite>
+    <sprite>sprites\s_stairimages</sprite>
+    <sprite>sprites\s_stairinmanchine</sprite>
+    <sprite>sprites\s_solid</sprite>
+    <sprite>sprites\s_signone</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_background</background>
+    <background>background\b_carpet</background>
+    <background>background\b_housemancine</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -37,16 +72,46 @@
       <object>objects\o_house</object>
       <object>objects\Block</object>
     </objects>
-    <object>objects\o_straightroad</object>
-    <object>objects\o_rtaod</object>
-    <object>objects\o_fofo</object>
-    <object>objects\o_otherroad</object>
-    <object>objects\o_hi</object>
-    <object>objects\o_raodstraight</object>
-    <object>objects\o_comcreate</object>
+    <object>objects\o_goingintoroomteleporter</object>
+    <objects name="Road">
+      <object>objects\o_straightroad</object>
+      <object>objects\o_raodstraight</object>
+      <object>objects\o_rtaod</object>
+      <object>objects\o_fofo</object>
+      <object>objects\o_comcreate</object>
+      <object>objects\o_otherroad</object>
+      <object>objects\o_hi</object>
+      <object>objects\o_roadturner</object>
+    </objects>
+    <objects name="Furniture">
+      <object>objects\o_sign</object>
+      <object>objects\o_fridge</object>
+      <object>objects\o_carpet</object>
+    </objects>
+    <object>objects\o_bulletleft</object>
+    <object>objects\o_bulletright</object>
+    <object>objects\o_bulletup</object>
+    <object>objects\o_bulletdown</object>
+    <object>objects\object19</object>
+    <object>objects\o_bookkshelf</object>
+    <object>objects\o_invisibletutorialblock</object>
+    <object>objects\o_table</object>
+    <object>objects\o_oven</object>
+    <object>objects\o_bed</object>
+    <object>objects\o_sink</object>
+    <object>objects\o_teleporttoothecity</object>
+    <object>objects\obj_tower</object>
+    <object>objects\o_mancine</object>
+    <object>objects\o_teleporttomancine</object>
+    <object>objects\o_stair</object>
+    <object>objects\o_solid</object>
+    <object>objects\o_signone</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_randomness</room>
+    <room>rooms\r_mainmanshouse</room>
+    <room>rooms\r_room</room>
+    <room>rooms\r_mancinw</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

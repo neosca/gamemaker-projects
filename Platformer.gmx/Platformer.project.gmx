@@ -65,6 +65,8 @@
     <sprite>sprites\sprite48</sprite>
     <sprite>sprites\s_rains</sprite>
     <sprite>sprites\s_killer</sprite>
+    <sprite>sprites\s_left</sprite>
+    <sprite>sprites\s_right</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\b_background</background>
@@ -144,6 +146,7 @@
       <object>objects\o_coin</object>
     </objects>
     <object>objects\o_killer</object>
+    <object>objects\o_left</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
