@@ -118,11 +118,9 @@
     <object>objects\o_jenkinssign</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\r_randomness</room>
-    <room>rooms\r_mainmanshouse</room>
-    <room>rooms\r_room</room>
     <room>rooms\r_mancinw</room>
     <room>rooms\r_jenkinshouse</room>
+    <room>rooms\room5</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
