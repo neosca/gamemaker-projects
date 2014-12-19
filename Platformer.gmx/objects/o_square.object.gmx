@@ -156,7 +156,7 @@ if (_hspeed == 0) {
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>r_spiral</room>
+            <room>&lt;undefined&gt;</room>
           </argument>
         </arguments>
       </action>
@@ -178,7 +178,7 @@ if (_hspeed == 0) {
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>r_happyplacwe</room>
+            <room>&lt;undefined&gt;</room>
           </argument>
         </arguments>
       </action>
@@ -255,7 +255,7 @@ if (_hspeed == 0) {
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>r_Parkour</room>
+            <room>&lt;undefined&gt;</room>
           </argument>
         </arguments>
       </action>
@@ -311,7 +311,7 @@ if (_hspeed == 0) {
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>r_Parkour</room>
+            <room>&lt;undefined&gt;</room>
           </argument>
         </arguments>
       </action>
@@ -367,7 +367,7 @@ if (_hspeed == 0) {
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>r_Parkour</room>
+            <room>&lt;undefined&gt;</room>
           </argument>
         </arguments>
       </action>
@@ -409,7 +409,7 @@ if (_hspeed == 0) {
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>r_angel</room>
+            <room>&lt;undefined&gt;</room>
           </argument>
         </arguments>
       </action>
@@ -431,7 +431,7 @@ if (_hspeed == 0) {
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>r_angel</room>
+            <room>&lt;undefined&gt;</room>
           </argument>
         </arguments>
       </action>
@@ -533,7 +533,7 @@ if (_hspeed == 0) {
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>r_Parkour</room>
+            <room>&lt;undefined&gt;</room>
           </argument>
         </arguments>
       </action>

@@ -165,10 +165,6 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\r_menu</room>
-    <room>rooms\r_Parkour</room>
-    <room>rooms\r_spiral</room>
-    <room>rooms\r_angel</room>
-    <room>rooms\r_happyplacwe</room>
     <room>rooms\r_credits</room>
   </rooms>
   <help>
