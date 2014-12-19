@@ -13,6 +13,7 @@
   <code></code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>
+  <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
     <isSet>0</isSet>
     <w>0</w>
@@ -71,10 +72,8 @@
     <instance objName="o_goback" x="352" y="32" name="inst_B180F3CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_desertapple" x="832" y="224" name="inst_C2316651" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_desertapple" x="672" y="224" name="inst_4690EBAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_bird" x="960" y="160" name="inst_2CB6EB8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="864" y="192" name="inst_60D2D6AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="576" y="224" name="inst_8ECD9A98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_fox" x="736" y="192" name="inst_4A142F2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_snowapple" x="352" y="320" name="inst_C3DCDAA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_snowapple" x="384" y="224" name="inst_86A8F67F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_finish" x="352" y="96" name="inst_564EE25D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

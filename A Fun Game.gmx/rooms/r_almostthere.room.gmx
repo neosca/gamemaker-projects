@@ -13,6 +13,7 @@
   <code></code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>
+  <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
     <isSet>0</isSet>
     <w>0</w>
@@ -85,7 +86,6 @@
     <instance objName="o_spawn" x="1024" y="480" name="inst_557B29B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_spawn" x="224" y="384" name="inst_EED5C107" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_spawn" x="192" y="128" name="inst_678FEB59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_bird" x="288" y="32" name="inst_064CB55C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_dancing" x="256" y="384" name="inst_B4A08F46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_dancing" x="768" y="160" name="inst_FDD3D02C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_desertapple" x="96" y="416" name="inst_05C03C00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

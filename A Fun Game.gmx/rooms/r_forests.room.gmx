@@ -13,6 +13,7 @@
   <code></code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>
+  <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
     <isSet>0</isSet>
     <w>0</w>
@@ -87,7 +88,6 @@
     <instance objName="o_tree" x="-64" y="320" name="inst_C1AEA315" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="800" y="544" name="inst_8848F789" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_tree" x="352" y="64" name="inst_E15C4C5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_fox" x="160" y="224" name="inst_F929F5AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="96" y="352" name="inst_49227307" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="160" y="448" name="inst_3080535D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_heal" x="384" y="352" name="inst_4B19F5E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
