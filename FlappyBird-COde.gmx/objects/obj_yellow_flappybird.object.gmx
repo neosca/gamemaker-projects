@@ -25,7 +25,9 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>mpressed = mouse_check_button_pressed(mb_right)
+            <string>///Handle Movement
+
+mpressed = mouse_check_button_pressed(mb_right)
 if (mpressed) {
     vspeed = 10;
     direction = 270;

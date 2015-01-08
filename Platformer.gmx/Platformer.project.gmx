@@ -166,6 +166,7 @@
   <rooms name="rooms">
     <room>rooms\r_menu</room>
     <room>rooms\r_credits</room>
+    <room>rooms\r_level_1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

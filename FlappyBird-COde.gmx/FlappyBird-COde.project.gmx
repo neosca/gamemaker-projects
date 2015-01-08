@@ -19,10 +19,11 @@
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
   </scripts>
-  <shaders name="shaders"/>
   <objects name="objects">
     <object>objects\obj_flappy_bird</object>
     <object>objects\obj_yellow_flappybird</object>
+    <object>objects\obj_red_flapps</object>
+    <object>objects\obj_blueman</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main</room>

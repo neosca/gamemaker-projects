@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string> Left And Right Keys To Move, Space To Jump, E To Show Highscores, Shift To Reset Stage, Good Luck!</string>
+            <string> Left And Right Keys To Move, Space To Jump, E To Show Highscores, R To Reset Stage, Good Luck!</string>
           </argument>
         </arguments>
       </action>
